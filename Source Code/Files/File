@@ -1,0 +1,35 @@
+# This is A Comment...
+# This FIle is used to Print MenuBar Easily on cmd console...
+# You can easily interact with the Menu, via Mouse...
+
+# All The Options Starting from '$' are Sub-options of the Menu option above them...
+# Kvc
+
+File
+$New
+$Save
+$Open
+$Namish
+$Exit
+Home
+$TheBATeam
+$LocalHost
+$Homeless
+Edit
+$New Doc
+$Clear
+View
+$The World
+$YourSelf
+$Nothing
+Tools
+$CMD
+$Life
+$None
+Help
+$From Kvc
+$From DarkBatcher
+$From TSnake
+$EGO
+$Software
+$About Us
